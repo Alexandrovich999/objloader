@@ -33,7 +33,7 @@ This addon is unfinished and I may continue working on it in the future.
 I don't know how to texture the .obj models/create physics that interact with entities not just the world.
 Spawned models use models/debug/debugwhite texture
 so feel free replace it with your model's (must convert to .vtf/.vmt)
-and you should be able texture it. (Single texture online)
+and you should be able texture it. (Single texture)
 
 Invert normals feature is broken. They are inverted by default.
 
